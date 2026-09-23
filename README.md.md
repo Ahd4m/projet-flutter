@@ -1,6 +1,6 @@
 <!--
 ============================================================
-TRAME À COMPLÉTER — Documentation technique de l'application
+TRAME À COMPLÉTER — Documentation technique de l'applicationn
 BTS SIO2 SLAM — Lycée Robert Schuman, Metz
 Mode d'emploi :
   1. Placez ce fichier sous le nom README.md à la RACINE de votre dépôt.
