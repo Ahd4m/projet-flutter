@@ -1,17 +1,3 @@
-<!--
-============================================================
-TRAME À COMPLÉTER — Documentation technique de l'applicationn
-BTS SIO2 SLAM — Lycée Robert Schuman, Metz
-Mode d'emploi :
-  1. Placez ce fichier sous le nom README.md à la RACINE de votre dépôt.
-  2. Ce fichier décrit l'application dans son ÉTAT ACTUEL.
-     Le journal des versions va dans CHANGELOG.md,
-     le suivi des bugs dans ANOMALIES.md.
-  3. Mettez à jour ce README À CHAQUE évolution notable de l'application.
-  4. Remplacez tout ce qui est entre chevrons <...> et suivez les
-     consignes en commentaires <!-- ... -->, puis supprimez-les.
-============================================================
--->
 
 # HellMetz Mobile — Documentation technique
 
